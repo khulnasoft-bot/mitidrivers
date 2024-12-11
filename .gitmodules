@@ -1,0 +1,3 @@
+[submodule "mitigate-drivers.khulnasoft.com/themes/compose"]
+	path = mitigate-drivers.khulnasoft.com/themes/compose
+	url = https://github.com/josehelps/compose
